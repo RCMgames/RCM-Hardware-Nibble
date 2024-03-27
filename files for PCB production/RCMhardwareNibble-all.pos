@@ -1,0 +1,43 @@
+### Footprint positions - created on Sat Mar 23 17:27:41 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                                  Package                                     PosX       PosY       Rot  Side
+C1        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                        12.8270     1.2700  180.0000  bottom
+C2        22uF/0805/>=16V                      C_0805_2012Metric                        -7.6454   -18.6182  180.0000  bottom
+C3        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         5.1180   -14.4500  -90.0000  bottom
+C5        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         3.0860   -14.4180   90.0000  bottom
+C6        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                        10.8330   -14.4180  -90.0000  bottom
+C8        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         8.6360   -14.8336   90.0000  bottom
+C9        22uF/0805/>=16V                      C_0805_2012Metric                         5.7810     0.1270  180.0000  bottom
+C10       2.2uF/0603/>=16V                     C_0603_1608Metric                        11.4300    -2.9210   90.0000  bottom
+C12       22uF/0603/>=16V                      C_0603_1608Metric                        12.9032    -2.9210   90.0000  bottom
+C13       2.2uF/0603/>=16V                     C_0603_1608Metric                         9.0170    -0.1270  180.0000  bottom
+C15       100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                        12.9540    -5.7150   90.0000  bottom
+D1        1A_Zener_Diode__/_>=1A               D_SOD-323                                12.1920    -0.3810  180.0000  bottom
+Q3        BSS138,_N_channel_mosfet_>=0.22A     SOT-23                                    3.5052    -8.1026  -90.0000  bottom
+Q4        BSS138,_N_channel_mosfet_>=0.22A     SOT-23                                    6.9596    -8.1026  -90.0000  bottom
+R1        30k_/_<=1%                           R_0402_1005Metric                        12.9540   -12.0396   90.0000  bottom
+R2        10k_/_<=1%                           R_0402_1005Metric                        12.9540    -9.8532   90.0000  bottom
+R3        120mΩ_/_0.5W_/_1206_/_<=1%          R_1206_3216Metric                         6.5150   -18.1334   90.0000  bottom
+R4        120mΩ_/_0.5W_/_1206_/_<=1%          R_1206_3216Metric                         3.7210   -18.1290   90.0000  bottom
+R5        120mΩ_/_0.5W_/_1206_/_<=1%          R_1206_3216Metric                        12.1030   -18.1290   90.0000  bottom
+R6        120mΩ_/_0.5W_/_1206_/_<=1%          R_1206_3216Metric                         9.5630   -18.1290   90.0000  bottom
+R7        10k_/_<=1%                           R_0402_1005Metric                        11.5316    -5.4610  180.0000  bottom
+R11       10k_/_<=1%                           R_0402_1005Metric                        12.9540    -7.8974  -90.0000  bottom
+R13       10k_/_<=1%                           R_0402_1005Metric                         2.9210   -10.5664    0.0000  bottom
+U2        LTC3246EMSE-PBF_/_500mA_charge_pump  MSE_16_ADI                                7.3660    -3.1750    0.0000  bottom
+U4        MIC5225-1.8V                         SOT-23-5                                 10.4648    -8.2042   90.0000  bottom
+C4        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         2.6950   -12.8270  180.0000  top
+C7        100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         8.2930   -12.7950  180.0000  top
+C11       100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         8.4328    -8.3820    0.0000  top
+C16       22uF/0805/>=16V                      C_0805_2012Metric                        -7.6302   -18.6436  180.0000  top
+C17       100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                         7.8740   -14.2240  -90.0000  top
+C18       100nF/0402/16V/X7R/<=10%/ceramic     C_0402_1005Metric                        13.4620   -14.2240  -90.0000  top
+IC1       TMC7300                              QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm     5.1180   -15.4664  180.0000  top
+IC2       TMC7300                              QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm    10.8330   -15.4620  180.0000  top
+R9        10k_/_<=1%                           R_0402_1005Metric                        -3.4544   -14.5034  180.0000  top
+R10       10k_/_<=1%                           R_0402_1005Metric                         2.3876    -9.9568  -90.0000  top
+R12       10k_/_<=1%                           R_0402_1005Metric                        -6.2230   -16.2560    0.0000  top
+U3        ICM-20948                            QFN40P300X300X105-24N                     5.0800    -8.8900   90.0000  top
+## End
