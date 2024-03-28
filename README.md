@@ -1,4 +1,6 @@
 # RCM-Hardware-Nibble
+v1.4
+
 Half a BYTE
 
 UNDER DEVELOPMENT
