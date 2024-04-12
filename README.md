@@ -7,7 +7,7 @@ Half a [BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE)
 * 4 motors
 * 4 servos
 * 2 additional GPIO pins
-* built-in IMU
+* built-in [IMU](https://github.com/RCMgames/useful-code/tree/main/ICM20948)
 * battery monitoring
 * I2C connector on QT PY
 * runs on 3-11 volts
