@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 138.557 36.857)
     (pcbplotparams
-      (layerselection 0x0000030_7ffffff8)
+      (layerselection 0x00010ff_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
@@ -87,11 +87,11 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 3)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "production1.5/")
+      (outputdirectory "production1.5/gerbers/")
     )
   )
 
@@ -2388,7 +2388,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 546ea8b9-250a-42d6-8917-88fdc40058bd)
     )
-    (fp_text value "22uF/0603/>=16V" (at 0 -1.43 90) (layer "B.Fab")
+    (fp_text value "22uF/0603/>=10V" (at 0 -1.43 90) (layer "B.Fab")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1924ec6b-d89a-475e-b99e-78151f97555d)
     )
@@ -3721,8 +3721,6 @@
     )
 
     (stroke (width 0.15) (type solid)) (fill solid) (layer "B.Mask") (tstamp 0d698611-6ab4-4bd9-b405-88dda3a28a46))
-  (gr_circle (center 0 47.6504) (end 0.401609 47.6504)
-    (stroke (width 0.15) (type solid)) (fill solid) (layer "B.Mask") (tstamp 455f3e2d-5dc1-4d34-bcde-3fe20b40dff3))
   (gr_circle (center 147.4724 47.498) (end 147.8534 47.498)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "B.Mask") (tstamp 782e799b-c684-4f0a-9a27-55aa1d7d18b7))
   (gr_poly

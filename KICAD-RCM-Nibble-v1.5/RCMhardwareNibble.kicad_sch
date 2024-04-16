@@ -4267,7 +4267,7 @@
     (property "Reference" "C12" (at 458.47 307.34 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "22uF/0603/>=16V" (at 458.47 309.88 0)
+    (property "Value" "22uF/0603/>=10V" (at 458.47 309.88 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 453.6948 304.8 0)

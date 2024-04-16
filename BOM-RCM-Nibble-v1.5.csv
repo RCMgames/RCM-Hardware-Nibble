@@ -2,7 +2,7 @@
 "C1, C3-C8, C11, C15, C17, C18","100nF/0402/16V/X7R/<=10%/ceramic","Capacitor_SMD:C_0402_1005Metric","~","any","0402","4713-GMC04X7R104K50NTCT-ND","https://www.digikey.cn/en/products/detail/cal-chip-electronics-inc/GMC04X7R104K50NT/18151122","smt","GMC04X7R104K50NT","11"
 "C2, C9, C16","22uF/0805/>=16V","Capacitor_SMD:C_0805_2012Metric","~","any","0805","4713-GMC21X5R226M25NTCT-ND","https://www.digikey.cn/en/products/detail/cal-chip-electronics-inc/GMC21X5R226M25NT/18151071","smt","GMC21X5R226M25NT","3"
 "C10, C13, C14","2.2uF/0603/>=16V","Capacitor_SMD:C_0603_1608Metric","~","any","0603","4713-GMC10X7R225K16NTCT-ND","https://www.digikey.cn/en/products/detail/cal-chip-electronics-inc/GMC10X7R225K16NT/22461333","smt","GMC10X7R225K16NT","3"
-"C12","22uF/0603/>=16V","Capacitor_SMD:C_0603_1608Metric","~","any","0603","4713-GMC10X5R226M10NTCT-ND","https://www.digikey.cn/en/products/detail/cal-chip-electronics-inc/GMC10X5R226M10NT/22461275","smt","GMC10X5R226M10NT","1"
+"C12","22uF/0603/>=10V","Capacitor_SMD:C_0603_1608Metric","~","any","0603","4713-GMC10X5R226M10NTCT-ND","https://www.digikey.cn/en/products/detail/cal-chip-electronics-inc/GMC10X5R226M10NT/22461275","smt","GMC10X5R226M10NT","1"
 "D1","1A Zener Diode  / >=1A / 600 mV Vf @ 1 A","Diode_SMD:D_SOD-323","~","any","D_SOD-323","4786-GDB5818WSCT-ND","https://www.digikey.com/en/products/detail/good-ark-semiconductor/GDB5818WS/18648294","smt","GDB5818WS","1"
 "ESP32_QT_PY1","microcontroller","!RCMhardware footprints:ESP32 QT PY","~","do not place or purchase for PCB assembly","tht","1528-5426-ND or 1528-5700-ND","","tht","do not place or purchase for PCB assembly","1"
 "H1, H2","MountingHole","MountingHole:MountingHole_2.2mm_M2","~","n/a","n/a","n/a","n/a","n/a","n/a","2"
