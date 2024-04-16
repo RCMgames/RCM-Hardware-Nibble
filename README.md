@@ -14,6 +14,9 @@ Half a [BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE)
 * I2C connector on QT PY
 * runs on 3-11 volts
 
+program with [RCMv2](https://github.com/RCMgames/RCMv2)
+
+
 Tested with the following types of ESP32 QT Py:
 | Type of Qt Py | PlatformIO name | link to Adafruit |
 | ------ | -------- | -------- |
