@@ -21,3 +21,5 @@ Tested with the following types of ESP32 QT Py:
 | S3 with 8Mb Flash |  adafruit_qtpy_esp32s3_nopsram   |  https://www.adafruit.com/product/5426   |
 | S2 |  adafruit_qtpy_esp32s2   |  https://www.adafruit.com/product/5325  |
 | C3 | adafruit_qtpy_esp32c3  | https://www.adafruit.com/product/5405 |
+
+![screenshot of 3D model](https://github.com/RCMgames/RCM-Hardware-Nibble/blob/af1beba9ec100e7f6b639da1eef72971af2435cc/CAD%20renders-RCM-Nibble-v1.5/render1.jpg)
