@@ -4402,7 +4402,7 @@
     (property "digikey part #" "4786-GDB5818WSCT-ND" (at 429.26 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Manufacturer" "any" (at 429.26 39.37 0)
+    (property "Manufacturer" "Good-Ark Semiconductor" (at 429.26 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Package" "D_SOD-323" (at 429.26 39.37 0)
