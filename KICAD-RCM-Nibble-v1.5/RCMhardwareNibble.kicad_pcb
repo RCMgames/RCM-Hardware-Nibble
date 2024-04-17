@@ -2610,7 +2610,7 @@
     (at 150.749 37.238 180)
     (descr "SOD-323")
     (tags "SOD-323")
-    (property "Manufacturer" "any")
+    (property "Manufacturer" "Good-Ark Semiconductor")
     (property "Package" "D_SOD-323")
     (property "Sheetfile" "RCMhardwareNibble.kicad_sch")
     (property "Sheetname" "")
