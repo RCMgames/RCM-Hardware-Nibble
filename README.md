@@ -25,4 +25,9 @@ Tested with the following types of ESP32 QT Py:
 | S2 |  adafruit_qtpy_esp32s2   |  https://www.adafruit.com/product/5325  |
 | C3 | adafruit_qtpy_esp32c3  | https://www.adafruit.com/product/5405 |
 
+## Options for purchasing
+
+* PCBWay link (coming soon, after testing is complete) (PCBWay will give me a commission without increasing the price for you). (approximately $110 for 2 boards and manufacturing took a month).
+* send the gerbers, bill of materials, and ComponentPlacement files to a PCB manufacturer of your choice (details you may be asked for: min hole: 0.3mm, min track/spacing 5/5mil, 1 oz Cu outer 1.5 oz Cu inner)
+
 ![screenshot of 3D model](https://github.com/RCMgames/RCM-Hardware-Nibble/blob/af1beba9ec100e7f6b639da1eef72971af2435cc/CAD%20renders-RCM-Nibble-v1.5/render1.jpg)
