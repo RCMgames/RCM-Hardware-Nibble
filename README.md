@@ -23,7 +23,6 @@ Tested with the following types of ESP32 QT Py:
 | S3 with 2MB PSRAM |  adafruit_qtpy_esp32s3_n4r2   |  https://www.adafruit.com/product/5700   |
 | S3 with 8Mb Flash |  adafruit_qtpy_esp32s3_nopsram   |  https://www.adafruit.com/product/5426   |
 | S2 |  adafruit_qtpy_esp32s2   |  https://www.adafruit.com/product/5325  |
-| C3 | adafruit_qtpy_esp32c3  | https://www.adafruit.com/product/5405 |
 
 ## Options for purchasing
 
