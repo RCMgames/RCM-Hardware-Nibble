@@ -6,7 +6,7 @@
 
   (title_block
     (title "RCM NIBBLE")
-    (rev "1.5")
+    (rev "1.6")
     (company "RCMgames")
     (comment 1 "https://github.com/RCMgames/RCM-Hardware-Nibble")
   )
