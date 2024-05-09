@@ -24,6 +24,12 @@ Tested with the following types of ESP32 QT Py:
 | S3 with 8Mb Flash |  adafruit_qtpy_esp32s3_nopsram   |  https://www.adafruit.com/product/5426   |
 | S2 |  adafruit_qtpy_esp32s2   |  https://www.adafruit.com/product/5325  |
 
+Look here for how to program it: https://github.com/RCMgames/RCMv2
+
+Look here for more information and examples of robots: https://github.com/rcmgames
+
+Want slightly larger and 8 motors and 8 servos? Look at the [BYTE](https://github.com/rcmgames/RCM-Hardware-BYTE)
+
 ## Options for purchasing
 
 * PCBWay link (coming soon, after testing is complete) (PCBWay will give me a commission without increasing the price for you). (approximately $110 for 2 boards and manufacturing took a month).
