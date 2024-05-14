@@ -33,7 +33,7 @@ Want slightly larger and 8 motors and 8 servos? Look at the [BYTE](https://githu
 ## Options for purchasing
 
 * PCBWay link (coming soon, after testing is complete) (PCBWay will give me a commission without increasing the price for you). (approximately $110 for 2 boards and manufacturing took a month).
-* send the gerbers, bill of materials, and ComponentPlacement files (in /PCBproduction-RCM-Nibble) to a PCB manufacturer of your choice (details you may be asked for: min hole 0.3mm, min track/spacing 5/5mil, thickness 1.0mm, 1 oz Cu outer 1.5 oz Cu inner)
+* send the gerbers, bill of materials, and ComponentPlacement files (in /PCBproduction-RCM-Nibble) to a PCB manufacturer of your choice (details you may be asked for: min hole 0.3mm, min track/spacing 5/5mil, thickness 1.0mm, 1 oz Cu outer 1.5 oz Cu inner, tell them to not solder the icm20948's exposed pad)
 
 ![screenshot of 3D model](https://github.com/RCMgames/RCM-Hardware-Nibble/blob/9c7b1ddb5be3ad631fa4b47af7eed56ae17cecb7/CAD%20renders-RCM-Nibble/render1.jpg)
 
