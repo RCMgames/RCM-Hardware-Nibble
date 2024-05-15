@@ -1574,7 +1574,7 @@
     (property "Sheetname" "")
     (property "digikey part #" "1428-1123-1-ND")
     (property "link" "https://www.digikey.com/en/products/detail/tdk-invensense/ICM-20948/6623535")
-    (property "mount_type" "smt")
+    (property "mount_type" "smt (do not solder center pad)")
     (property "mpn" "ICM-20948")
     (path "/5847d7a3-f4a4-4958-9dc7-03cd98131e41")
     (attr smd)
