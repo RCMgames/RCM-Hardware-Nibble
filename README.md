@@ -1,5 +1,5 @@
 # RCM-Hardware-Nibble
-v1.7
+v1.8
 
 UNDER DEVELOPMENT
 
