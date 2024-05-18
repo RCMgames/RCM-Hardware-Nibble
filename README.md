@@ -16,7 +16,6 @@ Half a [BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE)
 
 program with [RCMv2](https://github.com/RCMgames/RCMv2)
 
-
 Tested with the following types of ESP32 QT Py:
 | Type of Qt Py | PlatformIO name | link to Adafruit |
 | ------ | -------- | -------- |
