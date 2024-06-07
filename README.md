@@ -1,8 +1,6 @@
 # RCM-Hardware-Nibble
 v1.8
 
-UNDER DEVELOPMENT
-
 Half a [BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE)
 
 * 1.08 by 1.12 inches, 27.432 by 28.448 millimeters
