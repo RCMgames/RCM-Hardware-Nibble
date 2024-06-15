@@ -37,7 +37,7 @@ Solder by hand to complete the assembly of your boards.
 | part | links | quantity | notes |
 | ----- | ----- | ----- | ----- |
 | RCM Nibble circuit board | [options for purchasing](https://github.com/RCMgames/RCM-Hardware-Nibble/tree/main#options-for-purchasing) | 1 | |
-| ESP32 QT Py | [compatible QT Py above](https://github.com/RCMgames/RCM-Hardware-Nibble/tree/main#tested-with-the-following-types-of-esp32-qt-py) | 1 | |
+| ESP32 QT Py | [compatible QT Py](https://github.com/RCMgames/RCM-Hardware-Nibble/tree/main#tested-with-the-following-types-of-esp32-qt-py) | 1 | |
 | 2x4 female header pins | [this](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC042LFBN-RC/810244) or 2 strips of 4 | 1 | for motors |
 | 3 male header pins | | 4 | for servos |
 | 2 male header pins | | 2 | for extra 
