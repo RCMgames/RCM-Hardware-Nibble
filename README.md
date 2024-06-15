@@ -39,9 +39,9 @@ Solder by hand to complete the assembly of your boards.
 | RCM Nibble circuit board | [options for purchasing](https://github.com/RCMgames/RCM-Hardware-Nibble/tree/main#options-for-purchasing) | 1 | |
 | ESP32 QT Py | [compatible QT Py](https://github.com/RCMgames/RCM-Hardware-Nibble/tree/main#tested-with-the-following-types-of-esp32-qt-py) | 1 | |
 | 2x4 female header pins | [this](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC042LFBN-RC/810244) or 2 strips of 4 | 1 | for motors |
+| 7 female header pins | | 2 | for QT Py |
 | 3 male header pins | | 4 | for servos |
-| 2 male header pins | | 2 | for extra 
-GPIO pins |
+| 2 male header pins | | 2 | for extra GPIO pins |
 | battery wires | JST RCY OR 9V battery snap | 1 | [Amazon JST RCY](https://www.amazon.com/dp/B00Z04QFN2/) |
 | servo buck boost 5v 2A | [Pololu](https://www.pololu.com/product/4085) | 0 or 1 | if you want to supply voltages above or below what servos can accept (supplies other than 5AAs) |
 
